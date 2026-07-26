@@ -226,37 +226,37 @@ This project includes:
 
 ## Home
 
-![Home] (Home-Page.png)
+![Home](Home-Page.png)
 
 ---
 
 ## Executive Summary
 
-![Executive Summary] (Executive_Summary.png)
+![Executive Summary](Executive_Summary.png)
 
 ---
 
 ## Root Cause Analysis
 
-![Root Cause Analysis] (Root_Cause_Analysis.png)
+![Root Cause Analysis](Root_Cause_Analysis.png)
 
 ---
 
 ## Performance Scorecard
 
-![Performance Scorecard] (Performance_Scorecard.png)
+![Performance Scorecard](Performance_Scorecard.png)
 
 ---
 
 ## Forecast & Trend Analysis
 
-![Forecast] (Forecast_Trend_Analysis.png)
+![Forecast](Forecast_Trend_Analysis.png)
 
 ---
 
 ## Strategic Recommendations
 
-![Strategic Recommendations] (Strategic_Recommendations.png)
+![Strategic Recommendations](Strategic_Recommendations.png)
 
 ---
 
